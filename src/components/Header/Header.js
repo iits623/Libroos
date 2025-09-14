@@ -9,7 +9,7 @@ function Header() {
             <div className="bg-black">
                 <div className="container">
                     <div className="py-100 text-light">
-                        <h1 className="font46 fw-bold my-5">خدمات استریم</h1>
+                        <h1 className="font46 fw-bold my-5 overflow-x-visible">خدمات استریم</h1>
                         <p className="font18">به راحتی می‌توانید لایه استریم خود را ارتقا دهید. در عرض چند دقیقه می‌توانید آن را در OBS Studio، Streamlabs و StreamElements برای پلتفرم‌های محبوبی مانند Twitch، Kick و YouTube تنظیم کنید. این کار سریع و آسان است!</p>
                         <div className="row g-5 my-4">
                             <BoxHeader image={"./image/header/box4.jpg"}></BoxHeader>
@@ -30,7 +30,7 @@ function Header() {
 
 function BoxHeader({ image }) {
     console.log(image);
-    return <div div className="col-3" >
+    return <div div className="col-12 col-sm-6 col-lg-3" >
         <img src={image} className="w-100  rounded-4" alt={image} />
     </div>
 }

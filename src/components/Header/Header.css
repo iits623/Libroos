@@ -1,3 +1,14 @@
 .header-logo {
   font-family: JosefinSans;
 }
+* {
+  overflow-x: hidden;
+}
+.navbar-header {
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .navbar-header {
+    width: auto;
+  }
+}
