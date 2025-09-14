@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Libroos/static/css/main.dc9c37e5.css",
-    "main.js": "/Libroos/static/js/main.9066bfc1.js",
+    "main.css": "/Libroos/static/css/main.8183981f.css",
+    "main.js": "/Libroos/static/js/main.72f2b0fd.js",
     "static/media/IRANSans.woff2": "/Libroos/static/media/IRANSans.9f338149d9f52fe4faab.woff2",
     "static/media/JosefinSans.woff2": "/Libroos/static/media/JosefinSans.02069981f9e7ec0e5e56.woff2",
     "index.html": "/Libroos/index.html",
-    "main.dc9c37e5.css.map": "/Libroos/static/css/main.dc9c37e5.css.map",
-    "main.9066bfc1.js.map": "/Libroos/static/js/main.9066bfc1.js.map"
+    "main.8183981f.css.map": "/Libroos/static/css/main.8183981f.css.map",
+    "main.72f2b0fd.js.map": "/Libroos/static/js/main.72f2b0fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc9c37e5.css",
-    "static/js/main.9066bfc1.js"
+    "static/css/main.8183981f.css",
+    "static/js/main.72f2b0fd.js"
   ]
 }
