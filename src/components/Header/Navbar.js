@@ -41,7 +41,7 @@ function Navbar() {
                 </div>
 
             </nav >
-            <div class="bg-black text-light offcanvas offcanvas-end   text-end show w-75" tabindex="-1" id="mobileMenu" aria-modal="true" role="dialog">
+            <div class="bg-black text-light offcanvas offcanvas-end   text-end w-75" tabindex="-1" id="mobileMenu" aria-modal="true" role="dialog">
                 <div class="">
                     <div class="offcanvas-body px-4 py-3">
                         <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas"></button>
