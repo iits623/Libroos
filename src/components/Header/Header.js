@@ -8,10 +8,10 @@ function Header() {
             <Container>
                 <Navbar />
             </Container>
-            <div className='position-relative bg-black text-light'> {/* ارتفاع حداقل برای محتوا */}
+            <div className='position-relative bg-black text-light'>
                 <ParticlesBg
                     id="tsparticles"
-                    className="position-absolute top-0 start-0 w-100 h-100 z-0"
+                    className="position-absolute top-0 start-0 w-100"
 
                 />
                 <Container>
