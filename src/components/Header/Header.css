@@ -1,0 +1,23 @@
+.header-logo {
+  font-family: JosefinSans;
+}
+.bg-glass {
+  border: 2px solid rgba(255, 255, 255, 0);
+  border-radius: 40px;
+  box-shadow: 0 0 40px rgba(255, 255, 255, 0.1);
+}
+.navbar-header {
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .bg-glass {
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+  }
+  .navbar-header {
+    width: auto;
+  }
+}

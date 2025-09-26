@@ -1,0 +1,95 @@
+@font-face {
+  font-family: IRANSans;
+  src: url("../../public/font/IRANSans.woff2"), format("woff2");
+}
+@font-face {
+  font-family: JosefinSans;
+  src: url("../../public/font/JosefinSans.woff2"), format("woff2");
+}
+* {
+  font-family: IRANSans, JosefinSans;
+  /* border: 1px solid; */
+}
+.font60 {
+  font-size: 60px;
+}
+.font58 {
+  font-size: 58px;
+}
+.font54 {
+  font-size: 54px;
+}
+.font50 {
+  font-size: 50px;
+}
+.font46 {
+  font-size: 46px;
+}
+.font42 {
+  font-size: 42px;
+}
+.font38 {
+  font-size: 38px;
+}
+.font34 {
+  font-size: 34px;
+}
+.font30 {
+  font-size: 30px;
+}
+.font26 {
+  font-size: 26px;
+}
+.font24 {
+  font-size: 24px;
+}
+.font22 {
+  font-size: 22px;
+}
+.font20 {
+  font-size: 20px;
+}
+.font18 {
+  font-size: 18px;
+}
+.font16 {
+  font-size: 16px;
+}
+.font14 {
+  font-size: 14px;
+}
+.font12 {
+  font-size: 12px;
+}
+.font10 {
+  font-size: 10px;
+}
+.font8 {
+  font-size: 8px;
+}
+.font6 {
+  font-size: 6px;
+}
+.font4 {
+  font-size: 4px;
+}
+.py-50 {
+  padding: 50px 0;
+}
+.py-100 {
+  padding: 100px 0;
+}
+.line-height-35 {
+  line-height: 35px;
+}
+.nav-link {
+  color: black;
+}
+@media (max-width: 768px) {
+  /* .icon-offcanvas {
+    color: black;
+  } */
+  .text-offcanvas {
+    color: white;
+  }
+}
